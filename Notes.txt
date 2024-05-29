@@ -1,0 +1,6 @@
+sandbox is a embudded 
+stripped is a separate
+
+NodeJS created by Ryan dahi
+
+protocol is a set of rules and reculation.
