@@ -1,9 +1,10 @@
-// box method for object
+// dot method for object
 
 let obj = {
-    id:1,
-    name:'mani',
-    city:'trichy'
+    id:10,
+    name:'arun',
+    age:30
 }
 
-console.log(obj['id']);
+console.log(obj.name);
+
