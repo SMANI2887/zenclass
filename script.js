@@ -1,8 +1,7 @@
+let str = ["2.3 4.5 6.7"];
 
-// Conter to (array -> string)
+let arr = str[0].split(" ").map(Number);
+for (let i=0; i<arr.length; i++ ){
+    console.log(arr[i]);
+}
 
-let b = [1,2,3,4,5];
-
-let str = b.join(' ')
-
-console.log(str);
